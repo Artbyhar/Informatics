@@ -1,3 +1,1 @@
-# Universitas Kristen Indonesia Maluku
-
-ini merupakan tugas dan latihan pengenalan BI.
+ini merupakan tugas dan latihan pengenalan <b>Business Intelligence (BI)</b>
