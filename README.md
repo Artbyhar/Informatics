@@ -1,4 +1,4 @@
 # Informatics
-informatics materials and coding (<b>UKIM</b>).
+informatics materials and coding (<b>UKIM</b>)
 ----------------------------------------------
 
